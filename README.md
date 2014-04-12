@@ -4,15 +4,15 @@ iAlonsoPrintr
 Configuraciones y software utilizado de mi impresora 3D llamada iAlonso Printr
 
 
-# Modelo de impresora
+## Modelo de impresora
 
 Se trata de una **Printrbot v2**. Está construida completamente por mi desde cero. Las piezas de plástico base son de @darkomen.
 
-# Placa controladora
+## Placa controladora
 
 La placa controladora es una **Sanguinololu v1.3a**
 
-# Software
+## Software
 
 El bootloader que está instalado en la **Sanguinololu** es **Marlin**. ( http://reprap.org/wiki/Marlin )
 
