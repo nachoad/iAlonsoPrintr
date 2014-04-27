@@ -12,6 +12,7 @@
 ## 3. Guías, tutoriales
 
 * http://www.instructables.com/id/Add-a-Cooling-Fan-to-your-Rep-Rap-Sanguinololu/?ALLSTEPS
+* http://www.instructables.com/id/Basic-workflow-for-3D-design-in-Sketchup-and-3D-pr/
 
 ## 4. Sketchup
 
@@ -21,6 +22,7 @@
 
 * https://www.youmagine.com/designs/random-vase-hex#!design-embed
 * http://www.thingiverse.com/thing:298955
+* http://www.thingiverse.com/thing:17773 Mano robótica
 	
 ## 6. Trucos y comentarios de impresión 3D
 
