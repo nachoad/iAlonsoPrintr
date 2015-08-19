@@ -1,6 +1,6 @@
 #iAlonsoPrintr
 
-Configuraciones y software utilizado de mi impresora 3D llamada: **iAlonso Printr**. Puedes verla en funcionamiento en mi página personal http://nachoad.com/projects/ialonsoprintr/
+Configuraciones y software utilizado de mi impresora 3D llamada: **iAlonso Printr**. Puedes verla en funcionamiento en mi página personal http://nachoad.com/projects/printr/
 
 
 ## Modelo de impresora
